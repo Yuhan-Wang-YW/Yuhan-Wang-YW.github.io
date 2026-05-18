@@ -5,7 +5,6 @@ title: Home
 
 <section class="hero">
   <div>
-    <p class="eyebrow">Academic Personal Website</p>
     <h1>Yuhan Wang</h1>
     <p class="lead">
       I am a graduate researcher in the Department of Agricultural and Applied
