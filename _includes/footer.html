@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <strong>{{ site.author.name }}</strong>
+      <p>{{ site.author.role }}{% if site.author.affiliation %}, {{ site.author.affiliation }}{% endif %}</p>
+    </div>
+    <div class="footer-links">
+      {% if site.author.email %}
+        <a href="mailto:{{ site.author.email }}">Email</a>
+      {% endif %}
+      {% if site.author.github %}
+        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+      {% endif %}
+      {% if site.author.scholar %}
+        <a href="{{ site.author.scholar }}">Google Scholar</a>
+      {% endif %}
+      {% if site.author.linkedin %}
+        <a href="{{ site.author.linkedin }}">LinkedIn</a>
+      {% endif %}
+    </div>
+  </div>
+</footer>
