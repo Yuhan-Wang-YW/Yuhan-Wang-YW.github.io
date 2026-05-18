@@ -29,9 +29,8 @@ permalink: /cv/
 
 ## Research Fields
 
-Agricultural economics and agricultural finance, Empirical Industrial
-Organization, Environmental and Resource Economics, Agricultural Finance,
-Applied Econometrics.
+Agricultural economics and finance, Empirical Industrial Organization,
+Environmental and Resource Economics, Applied Econometrics.
 
 ## Professional Experience
 
