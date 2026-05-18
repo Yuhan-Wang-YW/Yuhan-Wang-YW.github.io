@@ -21,9 +21,6 @@ permalink: /cv/
 **M.S., Computer Science**, University of Wisconsin - Madison<br>
 2021 - 2023
 
-**M.S., Applied Economics**, University of Wisconsin - Madison<br>
-2021 - Present
-
 **B.S., Life Sciences; B.A., Economics**, Peking University<br>
 2015 - 2019
 
