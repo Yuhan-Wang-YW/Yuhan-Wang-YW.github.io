@@ -7,7 +7,7 @@ permalink: /cv/
 # CV
 
 <p>
-  <a class="button primary" href="{{ '/assets/files/Yuhan_Wang_CV.pdf' | relative_url }}">Download CV</a>
+  <a class="button primary" href="https://drive.google.com/file/d/1sUubGykElkDS1jt05FggZ4UQue2x-j8N/view">Download CV</a>
 </p>
 
 ## Education
