@@ -8,7 +8,6 @@ permalink: /cv/
 
 <p>
   <a class="button primary" href="{{ '/assets/files/Yuhan_Wang_CV.pdf' | relative_url }}">Download CV</a>
-  <a class="button" href="{{ '/assets/files/Yuhan_Wang_CV.docx' | relative_url }}">Word Version</a>
 </p>
 
 ## Education

@@ -9,6 +9,24 @@ permalink: /research/
 ## Working Papers
 
 <article class="paper">
+  <h3 class="paper-title">Demand, Markups, and Counterfactuals in U.S. Poultry Shipments</h3>
+  <p class="meta">Evidence from linked Commodity Flow and Manufacturing Microdata.</p>
+  <p>
+    This paper estimates a random-coefficients demand system with Bertrand
+    pricing for U.S. poultry shipments using Commodity Flow Survey records linked
+    to manufacturing establishments through the Longitudinal Business Database.
+    The framework adapts differentiated-products methods to freight microdata
+    and highlights the importance of geography and ownership in downstream
+    procurement markets.
+  </p>
+  <ul class="tag-list">
+    <li>Empirical Industrial Organization</li>
+    <li>Demand Estimation</li>
+    <li>Poultry Markets</li>
+  </ul>
+</article>
+
+<article class="paper">
   <h3 class="paper-title">A Text-Based Measure of Farm Bill Uncertainty and Its Effects on Agricultural Credit</h3>
   <p class="meta">With Xiaodong Du.</p>
   <p>
@@ -42,24 +60,6 @@ permalink: /research/
     <li>Climate Adaptation</li>
     <li>Agricultural Technology</li>
     <li>Land Use</li>
-  </ul>
-</article>
-
-<article class="paper">
-  <h3 class="paper-title">Demand, Markups, and Counterfactuals in U.S. Poultry Shipments</h3>
-  <p class="meta">Evidence from linked Commodity Flow and Manufacturing Microdata.</p>
-  <p>
-    This paper estimates a random-coefficients demand system with Bertrand
-    pricing for U.S. poultry shipments using Commodity Flow Survey records linked
-    to manufacturing establishments through the Longitudinal Business Database.
-    The framework adapts differentiated-products methods to freight microdata
-    and highlights the importance of geography and ownership in downstream
-    procurement markets.
-  </p>
-  <ul class="tag-list">
-    <li>Empirical Industrial Organization</li>
-    <li>Demand Estimation</li>
-    <li>Poultry Markets</li>
   </ul>
 </article>
 
