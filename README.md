@@ -1,6 +1,6 @@
 # Academic Website
 
-This repository contains the source for `https://hanhuangv587.github.io`.
+This repository contains the source for `https://yuhan-wang-yw.github.io`.
 
 ## Edit the Site
 
