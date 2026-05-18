@@ -12,30 +12,33 @@ permalink: /cv/
 
 ## Education
 
-**M.S., Applied Economics**, University of Wisconsin - Madison  
+**Ph.D., Agricultural & Applied Economics**, University of Wisconsin - Madison<br>
+2021 - Expected 2027
+
+**M.S., Applied Economics**, University of Wisconsin - Madison<br>
 2019 - 2021
 
-**M.S., Computer Science**, University of Wisconsin - Madison  
+**M.S., Computer Science**, University of Wisconsin - Madison<br>
 2021 - 2023
 
-**M.S., Applied Economics**, University of Wisconsin - Madison  
+**M.S., Applied Economics**, University of Wisconsin - Madison<br>
 2021 - Present
 
-**B.S., Life Sciences; B.A., Economics**, Peking University  
+**B.S., Life Sciences; B.A., Economics**, Peking University<br>
 2015 - 2019
 
 ## Research Fields
 
-Agricultural Economics, Environmental and Resource Economics, Agricultural
-Finance, Empirical Industrial Organization, Applied Econometrics, Climate
-Adaptation.
+Agricultural economics and agricultural finance, Empirical Industrial
+Organization, Environmental and Resource Economics, Agricultural Finance,
+Applied Econometrics.
 
 ## Professional Experience
 
-**Graduate Researcher**, U.S. Meat Market Demand Analysis, UW-Madison AAE  
+**Graduate Researcher**, U.S. Meat Market Demand Analysis, UW-Madison AAE<br>
 2020 - Present
 
-**Quantitative Strategy Researcher**, Alphafund Investment Company, Beijing  
+**Quantitative Strategy Researcher**, Alphafund Investment Company, Beijing<br>
 2018 - 2019
 
 ## Honors, Scholarships, and Fellowships
