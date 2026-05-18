@@ -19,11 +19,6 @@ permalink: /research/
     and highlights the importance of geography and ownership in downstream
     procurement markets.
   </p>
-  <ul class="tag-list">
-    <li>Empirical Industrial Organization</li>
-    <li>Demand Estimation</li>
-    <li>Poultry Markets</li>
-  </ul>
 </article>
 
 <article class="paper">
@@ -39,11 +34,6 @@ permalink: /research/
     Credit System institutions, the paper shows that higher uncertainty reduces
     agricultural lending, with the clearest effects among commercial banks.
   </p>
-  <ul class="tag-list">
-    <li>Agricultural Finance</li>
-    <li>Text Analysis</li>
-    <li>Policy Uncertainty</li>
-  </ul>
 </article>
 
 <article class="paper">
@@ -56,11 +46,6 @@ permalink: /research/
     agro-ecological yield-potential data and combines it with long-run data on
     land use, weather, and crop insurance outcomes.
   </p>
-  <ul class="tag-list">
-    <li>Climate Adaptation</li>
-    <li>Agricultural Technology</li>
-    <li>Land Use</li>
-  </ul>
 </article>
 
 ## Selected Work in Progress
