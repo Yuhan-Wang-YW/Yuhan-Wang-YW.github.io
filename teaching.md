@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 permalink: /teaching/
+description: "Teaching experience for Yuhan Wang, Ph.D. candidate at the University of Wisconsin - Madison."
 ---
 
 # Teaching

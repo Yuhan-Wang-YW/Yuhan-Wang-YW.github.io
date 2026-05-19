@@ -2,6 +2,7 @@
 layout: default
 title: CV
 permalink: /cv/
+description: "CV for Yuhan Wang, Ph.D. candidate in Agricultural and Applied Economics at the University of Wisconsin - Madison."
 ---
 
 # CV
