@@ -10,30 +10,32 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 ## Working Papers
 
 <article class="paper">
-  <h3 class="paper-title">Demand, Markups, and Counterfactuals in U.S. Poultry Shipments</h3>
-  <p class="meta">Evidence from linked Commodity Flow and Manufacturing Microdata.</p>
+  <h3 class="paper-title">Shipment Networks and Market Power in U.S. Poultry Procurement</h3>
   <p>
-    This paper estimates a random-coefficients demand system with Bertrand
-    pricing for U.S. poultry shipments using Commodity Flow Survey records linked
-    to manufacturing establishments through the Longitudinal Business Database.
-    The framework adapts differentiated-products methods to freight microdata
-    and highlights the importance of geography and ownership in downstream
-    procurement markets.
+    This paper studies market power in geographically differentiated U.S. poultry
+    procurement. It links Commodity Flow Survey shipments to Census establishment
+    microdata, constructs a poultry shipment network, classifies unobserved shipment
+    channels with a random forest, and builds representative downstream buyers from
+    local establishment data. A random-coefficients nested logit demand model with
+    multi-product Bertrand pricing shows that distance lowers mean utility, buyer
+    types differ sharply in price sensitivity, and multi-product ownership supports
+    economically meaningful markups. Counterfactuals for supply disruptions, higher
+    shipping costs, input-cost shocks, and consolidation all reduce total surplus.
   </p>
 </article>
 
 <article class="paper">
   <h3 class="paper-title">A Text-Based Measure of Farm Bill Uncertainty and Its Effects on Agricultural Credit</h3>
-  <p class="meta">With Xiaodong Du.</p>
   <p>
-    This paper develops a text-based measure of Farm Bill uncertainty and studies
-    its effects on U.S. agricultural credit supply. It constructs a Farm Bill
-    Uncertainty Index using a two-stage BERT classifier applied to newspaper
-    articles, identifying Farm Bill coverage and isolating language related to
-    legislative delay, disagreement, and procedural impasse. Merging the index
-    with institution-level data for commercial banks, credit unions, and Farm
-    Credit System institutions, the paper shows that higher uncertainty reduces
-    agricultural lending, with the clearest effects among commercial banks.
+    This paper develops a Farm Bill Uncertainty Index using a two-stage BERT
+    classifier that isolates newspaper language reflecting legislative delay,
+    disagreement, and procedural impasse. The index tracks negotiation cycles,
+    spiking during conflict and declining after enactment. Merging the index with
+    institution-level data for commercial banks, credit unions, and Farm Credit
+    System institutions shows that higher uncertainty reduces agricultural lending,
+    most clearly for commercial banks. Exposure-weighted and stacked
+    difference-in-differences estimates further show that lending expands more
+    rapidly after uncertainty declines.
   </p>
 </article>
 
