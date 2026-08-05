@@ -18,7 +18,7 @@ description: "Teaching experience for Yuhan Wang, Ph.D. candidate at the Univers
 
 <article class="course">
   <h3>AAE722: Machine Learning in Applied Economic Analysis</h3>
-  <p class="meta">Teaching Assistant, University of Wisconsin - Madison, Summer 2021 and Fall 2022</p>
+  <p class="meta">Teaching Assistant, with Professor <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong (Sheldon) Du</a>, University of Wisconsin - Madison, Summer 2021 and Fall 2022</p>
   <p>
     Teaching assistant for UW-Madison's graduate course on machine learning for
     applied economists, covering regression regularization, tree-based methods

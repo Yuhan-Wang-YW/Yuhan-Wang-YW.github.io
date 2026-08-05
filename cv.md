@@ -8,7 +8,7 @@ description: "CV for Yuhan Wang, Ph.D. candidate in Agricultural and Applied Eco
 # CV
 
 <p>
-  <a class="button primary" href="https://drive.google.com/file/d/1sUubGykElkDS1jt05FggZ4UQue2x-j8N/view">Download CV</a>
+  <a class="button primary" href="/assets/pdf/Yuhan_Wang_CV.pdf">Download CV</a>
 </p>
 
 ## Education

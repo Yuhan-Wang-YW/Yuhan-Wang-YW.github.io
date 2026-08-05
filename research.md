@@ -25,7 +25,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     unit values by about 7 percent and converts 59 percent of downstream buyers'
     losses into deadweight loss.
   </p>
-  <p><a class="button" href="https://drive.google.com/file/d/1iyqrVzqqQjLNq3Ll1Zkyj0Ug8N4fTUP9/view">Paper (PDF)</a></p>
+  <p><a class="button" href="/assets/pdf/Wang_JMP_Poultry.pdf">Paper (PDF)</a></p>
 </article>
 
 ## Working Papers
@@ -44,7 +44,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     difference-in-differences estimates further show that lending expands more
     rapidly after uncertainty declines.
   </p>
-  <p><a class="button" href="https://drive.google.com/file/d/132xzKz7gbiMJXvNeG5dvXSPaMf5hD0jd/view">Paper (PDF)</a></p>
+  <p><a class="button" href="/assets/pdf/Wang_FarmBill_Uncertainty.pdf">Paper (PDF)</a></p>
 </article>
 
 <article class="paper">
@@ -60,7 +60,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     exposure to downside weather risk, generating adaptation gains of about
     $0.85 per acre under greater climate volatility.
   </p>
-  <p><a class="button" href="https://drive.google.com/file/d/1Mr5wdI3er1cuJlftyKogFt0AQncjKblm/view">Paper (PDF)</a></p>
+  <p><a class="button" href="/assets/pdf/Wang_CornBelt_Adaptation.pdf">Paper (PDF)</a></p>
 </article>
 
 ## Selected Work in Progress
