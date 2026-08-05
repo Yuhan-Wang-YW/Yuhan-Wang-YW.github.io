@@ -20,8 +20,10 @@ description: "Teaching experience for Yuhan Wang, Ph.D. candidate at the Univers
   <h3>AAE722: Machine Learning in Applied Economic Analysis</h3>
   <p class="meta">Teaching Assistant, University of Wisconsin - Madison, Summer 2021 and Fall 2022</p>
   <p>
-    Teaching assistant for graduate-level machine learning methods in applied
-    economic analysis.
+    Teaching assistant for UW-Madison's graduate course on machine learning for
+    applied economists, covering regression regularization, tree-based methods
+    and random forests, neural networks, unsupervised learning, and their use in
+    causal inference with large data sets.
   </p>
 </article>
 

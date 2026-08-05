@@ -7,23 +7,28 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 # Research
 
-## Working Papers
+## Job Market Paper
 
 <article class="paper">
   <h3 class="paper-title">Shipment Networks and Market Power in U.S. Poultry Procurement</h3>
+  <p class="meta"><strong>Job Market Paper</strong></p>
   <p>
-    This paper studies market power in geographically differentiated U.S. poultry
-    procurement. It links Commodity Flow Survey shipments to Census establishment
-    microdata, constructs a poultry shipment network, classifies unobserved shipment
-    channels with a random forest, and builds representative downstream buyers from
-    local establishment data. A random-coefficients nested logit demand model with
-    multi-product Bertrand pricing shows that distance lowers mean utility, buyer
-    types differ sharply in price sensitivity, and multi-product ownership supports
-    economically meaningful markups. Counterfactuals for supply disruptions, higher
-    shipping costs, input-cost shocks, and consolidation all reduce total surplus.
+    How do market power and geography shape the cost of supply-chain shocks in
+    U.S. poultry procurement? Linking Commodity Flow Survey shipment records to
+    Census establishment microdata, I classify unobserved shipment channels with
+    a random forest and estimate random-coefficients nested logit demand with
+    multi-product Bertrand supply. Wholesale buyers are roughly three times as
+    price sensitive as food-service buyers, and shipment distance raises marginal
+    cost while lowering differentiated-product demand. An industry-wide raw-poultry
+    cost shock lowers total surplus by 17.7 percent and localized plant shutdowns
+    by 4.8 percent; a merger of the third- and fourth-largest firms raises average
+    unit values by about 7 percent and converts 59 percent of downstream buyers'
+    losses into deadweight loss.
   </p>
   <p><a class="button" href="https://drive.google.com/file/d/1iyqrVzqqQjLNq3Ll1Zkyj0Ug8N4fTUP9/view">Paper (PDF)</a></p>
 </article>
+
+## Working Papers
 
 <article class="paper">
   <h3 class="paper-title">A Text-Based Measure of Farm Bill Uncertainty and Its Effects on Agricultural Credit</h3>
@@ -34,7 +39,8 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     spiking during conflict and declining after enactment. Merging the index with
     institution-level data for commercial banks, credit unions, and Farm Credit
     System institutions shows that higher uncertainty reduces agricultural lending,
-    most clearly for commercial banks. Exposure-weighted and stacked
+    most clearly for commercial banks: a 0.10 increase in the index is associated
+    with about a 0.37 percent decline in lending. Exposure-weighted and stacked
     difference-in-differences estimates further show that lending expands more
     rapidly after uncertainty declines.
   </p>
@@ -43,13 +49,16 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 <article class="paper">
   <h3 class="paper-title">Technology, Risk, and Climate Adaptation: Corn Specialization in the U.S. Corn Belt</h3>
-  <p class="meta">With Xiaodong Du and Xueying Sun.</p>
+  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun.</p>
   <p>
     This paper studies how technological change facilitates climate adaptation in
     agricultural land use by examining the evolution of corn specialization in
     the U.S. Corn Belt. It constructs a county-level Technical Change Index using
     agro-ecological yield-potential data and combines it with long-run data on
-    land use, weather, and crop insurance outcomes.
+    land use, weather, and crop insurance outcomes. A structural discrete-choice
+    model shows that technology raises the returns to specialization and reduces
+    exposure to downside weather risk, generating adaptation gains of about
+    $0.85 per acre under greater climate volatility.
   </p>
   <p><a class="button" href="https://drive.google.com/file/d/1Mr5wdI3er1cuJlftyKogFt0AQncjKblm/view">Paper (PDF)</a></p>
 </article>
