@@ -16,11 +16,11 @@ description: "CV for Yuhan Wang, Ph.D. candidate in Agricultural and Applied Eco
 **Ph.D., Agricultural & Applied Economics**, University of Wisconsin - Madison<br>
 2021 - Expected 2027
 
-**M.S., Applied Economics**, University of Wisconsin - Madison<br>
-2019 - 2021
-
 **M.S., Computer Science**, University of Wisconsin - Madison<br>
 2021 - 2023
+
+**M.S., Applied Economics**, University of Wisconsin - Madison<br>
+2019 - 2021
 
 **B.S., Life Sciences; B.A., Economics**, Peking University<br>
 2015 - 2019

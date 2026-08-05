@@ -22,6 +22,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     economically meaningful markups. Counterfactuals for supply disruptions, higher
     shipping costs, input-cost shocks, and consolidation all reduce total surplus.
   </p>
+  <p><a class="button" href="https://drive.google.com/file/d/1iyqrVzqqQjLNq3Ll1Zkyj0Ug8N4fTUP9/view">Paper (PDF)</a></p>
 </article>
 
 <article class="paper">
@@ -37,6 +38,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     difference-in-differences estimates further show that lending expands more
     rapidly after uncertainty declines.
   </p>
+  <p><a class="button" href="https://drive.google.com/file/d/132xzKz7gbiMJXvNeG5dvXSPaMf5hD0jd/view">Paper (PDF)</a></p>
 </article>
 
 <article class="paper">
@@ -49,6 +51,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
     agro-ecological yield-potential data and combines it with long-run data on
     land use, weather, and crop insurance outcomes.
   </p>
+  <p><a class="button" href="https://drive.google.com/file/d/1Mr5wdI3er1cuJlftyKogFt0AQncjKblm/view">Paper (PDF)</a></p>
 </article>
 
 ## Selected Work in Progress
