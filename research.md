@@ -49,7 +49,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 <article class="paper">
   <h3 class="paper-title">Technology, Risk, and Climate Adaptation: Corn Specialization in the U.S. Corn Belt</h3>
-  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun.</p>
+  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun (authors listed alphabetically; equal contribution).</p>
   <p>
     This paper studies how technological change facilitates climate adaptation in
     agricultural land use by examining the evolution of corn specialization in
