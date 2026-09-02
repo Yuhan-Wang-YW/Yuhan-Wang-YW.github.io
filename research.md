@@ -32,6 +32,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 <article class="paper">
   <h3 class="paper-title">A Text-Based Measure of Farm Bill Uncertainty and Its Effects on Agricultural Credit</h3>
+  <p class="meta">Revision requested at <em>Journal of Agricultural Economics</em>.</p>
   <p>
     This paper develops a Farm Bill Uncertainty Index using a two-stage BERT
     classifier that isolates newspaper language reflecting legislative delay,
@@ -49,7 +50,8 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 <article class="paper">
   <h3 class="paper-title">Technology, Risk, and Climate Adaptation: Corn Specialization in the U.S. Corn Belt</h3>
-  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun (authors listed alphabetically; equal contribution).</p>
+  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun (authors listed alphabetically; equal contribution).<br>
+  Revision requested at <em>American Journal of Agricultural Economics</em>.</p>
   <p>
     This paper studies how technological change facilitates climate adaptation in
     agricultural land use by examining the evolution of corn specialization in
