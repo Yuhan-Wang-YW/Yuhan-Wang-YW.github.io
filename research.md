@@ -50,7 +50,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 <article class="paper">
   <h3 class="paper-title">Technology, Risk, and Climate Adaptation: Corn Specialization in the U.S. Corn Belt</h3>
-  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun (authors listed alphabetically; equal contribution).<br>
+  <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun.<br>
   Revision requested at <em>American Journal of Agricultural Economics</em>.</p>
   <p>
     This paper studies how technological change facilitates climate adaptation in
@@ -69,3 +69,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 
 - How Does Climate Change Affect the Farmland Allocation and Trade Flow in the U.S.?
 - U.S. Meat Market Demand Analysis using Nielsen Data.
+- Food Policy Uncertainty, Corporate R&D Investment, and Firm Productivity.
+- Media Bias and the Reporting of Economic News in the United States.
+- Market Structure and Price Dynamics in the Texas Electricity Market: Evidence from ERCOT and EIA Data.
+- Weather Extremes and Tail Risk in U.S. Corn and Soybean Production.
