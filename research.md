@@ -51,7 +51,7 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 <article class="paper">
   <h3 class="paper-title">Climate-Conditioned Comparative Advantage, Persistence, and U.S. Corn–Soy Land Allocation</h3>
   <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun.<br>
-  Revision requested at <em>American Journal of Agricultural Economics</em>.</p>
+  Submitted to <em>Journal of Environmental Economics and Management</em>.</p>
   <p>
     This paper studies how climate-conditioned comparative advantage translates
     into county-level corn–soy land allocation in the U.S. Corn Belt when
