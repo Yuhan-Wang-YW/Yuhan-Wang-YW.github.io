@@ -49,18 +49,23 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 </article>
 
 <article class="paper">
-  <h3 class="paper-title">Technology, Risk, and Climate Adaptation: Corn Specialization in the U.S. Corn Belt</h3>
+  <h3 class="paper-title">Climate-Conditioned Comparative Advantage, Persistence, and U.S. Corn–Soy Land Allocation</h3>
   <p class="meta">With <a href="https://aae.wisc.edu/faculty/xdu23/">Xiaodong Du</a> and Xueying Sun.<br>
   Revision requested at <em>American Journal of Agricultural Economics</em>.</p>
   <p>
-    This paper studies how technological change facilitates climate adaptation in
-    agricultural land use by examining the evolution of corn specialization in
-    the U.S. Corn Belt. It constructs a county-level Technical Change Index using
-    agro-ecological yield-potential data and combines it with long-run data on
-    land use, weather, and crop insurance outcomes. A structural discrete-choice
-    model shows that technology raises the returns to specialization and reduces
-    exposure to downside weather risk, generating adaptation gains of about
-    $0.85 per acre under greater climate volatility.
+    This paper studies how climate-conditioned comparative advantage translates
+    into county-level corn–soy land allocation in the U.S. Corn Belt when
+    production patterns are persistent. Using rain-fed potential-yield
+    simulations from FAO Global Agro-Ecological Zones, it constructs a Relative
+    Input Premium Advantage (RIPA) that compares the potential-yield gains from
+    higher-input management for corn and soybeans. RIPA is associated mainly
+    with persistent cross-county differences in allocation, while year-to-year
+    acreage changes are more closely related to expected relative revenues. A
+    discrete-choice land-allocation model with expected portfolio revenue, RIPA,
+    revenue risk, and prior allocation shows strong state dependence:
+    counterfactual acreage responses increase substantially when the estimated
+    persistence penalties are removed, and historical GAEZ shifts between 1990
+    and 2010 imply modest aggregate reallocation.
   </p>
   <p><a class="button" href="/assets/pdf/Wang_CornBelt_Adaptation.pdf">Paper (PDF)</a></p>
 </article>
