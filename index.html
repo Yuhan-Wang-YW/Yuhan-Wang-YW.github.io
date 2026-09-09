@@ -7,25 +7,6 @@ description: "Yuhan Wang is a Ph.D. candidate in Agricultural and Applied Econom
 <section class="hero">
   <aside class="profile-card" aria-label="Profile">
     <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo for {{ site.author.name }}">
-    <section class="side-section">
-      <h2>Contact</h2>
-      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
-      <p>
-        <a href="https://aae.wisc.edu/">Department of Agricultural and Applied Economics</a><br>
-        <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a><br>
-        Madison, WI
-      </p>
-    </section>
-    <section class="side-section">
-      <h2>Follow</h2>
-      {% if site.author.linkedin %}
-        <p><a href="{{ site.author.linkedin }}">LinkedIn</a></p>
-      {% endif %}
-      <p><a href="https://github.com/{{ site.author.github }}">GitHub</a></p>
-      {% if site.author.orcid %}
-        <p><a href="{{ site.author.orcid }}">ORCID</a></p>
-      {% endif %}
-    </section>
   </aside>
 
   <div class="intro">
@@ -74,4 +55,22 @@ description: "Yuhan Wang is a Ph.D. candidate in Agricultural and Applied Econom
       Submitted to <em>Journal of Environmental Economics and Management</em>.
       <a href="/assets/pdf/Wang_CornBelt_Adaptation.pdf">[PDF]</a></li>
   </ul>
+</section>
+
+<section id="contact" class="contact">
+  <h2>Contact</h2>
+  <div class="contact-grid">
+    <div class="contact-item">
+      <p class="contact-label">Email</p>
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+    </div>
+    <div class="contact-item">
+      <p class="contact-label">Office</p>
+      <p>
+        {{ site.author.office }}<br>
+        <a href="https://aae.wisc.edu/">Department of Agricultural and Applied Economics</a><br>
+        <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a>
+      </p>
+    </div>
+  </div>
 </section>
