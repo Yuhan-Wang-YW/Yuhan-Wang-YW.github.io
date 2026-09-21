@@ -10,20 +10,24 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
 ## Job Market Paper
 
 <article class="paper">
-  <h3 class="paper-title">Shipment Networks and Market Power in U.S. Poultry Procurement</h3>
+  <h3 class="paper-title">Supply Networks and Market Power in U.S. Poultry Procurement</h3>
   <p class="meta"><strong>Job Market Paper</strong></p>
   <p>
-    How do market power and geography shape the cost of supply-chain shocks in
-    U.S. poultry procurement? Linking Commodity Flow Survey shipment records to
-    Census establishment microdata, I classify unobserved shipment channels with
-    a random forest and estimate random-coefficients nested logit demand with
-    multi-product Bertrand supply. Wholesale buyers are roughly three times as
-    price sensitive as food-service buyers, and shipment distance raises marginal
-    cost while lowering differentiated-product demand. An industry-wide raw-poultry
-    cost shock lowers total surplus by 17.7 percent and localized plant shutdowns
-    by 4.8 percent; a merger of the third- and fourth-largest firms raises average
-    unit values by about 7 percent and converts 59 percent of downstream buyers'
-    losses into deadweight loss.
+    I construct the first shipment-based U.S. poultry procurement network,
+    identifying the plants and firms competing for local purchases. Production
+    and consumption maps alone do not reveal these supplier choice sets. A
+    demand-and-supply model combines heterogeneous procurement decisions with
+    joint pricing by multi-plant firms. Wholesalers are 3.33 times as price
+    sensitive as food-service buyers, and average processor margins are 33
+    percent. Controlling for income, education, and population, a
+    10-percentage-point higher county wholesale-channel share is associated with
+    16 percent more baseline procurement and 11 percent more total surplus. Under
+    a 20 percent raw-poultry input-cost shock, the same contrast is associated
+    with a 6 percent greater procurement decline and a 4 percent greater
+    buyer-surplus loss, without a detectable additional price response. A merger
+    of the third- and fourth-largest processors raises prices by 6.9 percent. The
+    network thus links local competition and downstream demand organization to
+    market scale and shock exposure.
   </p>
   <p><a class="button" href="/assets/pdf/Wang_JMP_Poultry.pdf">Paper (PDF)</a></p>
 </article>
