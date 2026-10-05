@@ -13,21 +13,25 @@ description: "Research by Yuhan Wang, Ph.D. candidate in Agricultural and Applie
   <h3 class="paper-title">Supply Networks and Market Power in U.S. Poultry Procurement</h3>
   <p class="meta"><strong>Job Market Paper</strong></p>
   <p>
-    I construct the first shipment-based U.S. poultry procurement network,
-    identifying the plants and firms competing for local purchases. Production
-    and consumption maps alone do not reveal these supplier choice sets. A
-    demand-and-supply model combines heterogeneous procurement decisions with
-    joint pricing by multi-plant firms. Wholesalers are 3.33 times as price
-    sensitive as food-service buyers, and average processor margins are 33
-    percent. Controlling for income, education, and population, a
-    10-percentage-point higher county wholesale-channel share is associated with
-    16 percent more baseline procurement and 11 percent more total surplus. Under
-    a 20 percent raw-poultry input-cost shock, the same contrast is associated
-    with a 6 percent greater procurement decline and a 4 percent greater
-    buyer-surplus loss, without a detectable additional price response. A merger
-    of the third- and fourth-largest processors raises prices by 6.9 percent. The
-    network thus links local competition and downstream demand organization to
-    market scale and shock exposure.
+    How do supplier networks and firm ownership shape pricing and the burden of
+    supply disruptions? I construct the first model of a shipment-based U.S.
+    poultry procurement network, linking processing plants to county procurement
+    markets and firm ownership. Annual plant-to-county network densities average
+    10 percent for retailer-bound shipments and 14 percent for wholesaler-bound
+    shipments. A demand-and-supply model with joint pricing across each
+    processor’s plants recovers a baseline price–cost margin of 33 percent of the
+    selling price. Wholesale buyers are 1.67 times as price sensitive as retail
+    buyers and 3.33 times as price sensitive as food-service buyers. A 20 percent
+    raw-poultry cost increase lowers total surplus by 17.7 percent and reduces
+    both buyer and processor surplus. A merger of the third- and fourth-largest
+    processors raises prices by 6.9 percent and increases processor surplus while
+    reducing buyer and total surplus; 59 percent of the buyer loss is deadweight
+    loss. The regional burden is related to the demand that a market serves.
+    Controlling for income, education, and population, a 10-percentage-point higher
+    baseline share of county procurement shipped to wholesalers is associated with
+    procurement losses that are 6 percent larger in pounds and buyer-surplus losses
+    that are 4 percent larger in dollars under the input-cost shock, without a
+    statistically detectable additional price response.
   </p>
   <p><a class="button" href="/assets/pdf/Wang_JMP_Poultry.pdf">Paper (PDF)</a></p>
 </article>

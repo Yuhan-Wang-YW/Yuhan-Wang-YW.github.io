@@ -9,9 +9,9 @@ description: "Teaching experience for Yuhan Wang, Ph.D. candidate at the Univers
 
 <article class="course">
   <h3>AAE421: Economic Decision Analysis</h3>
-  <p class="meta">Principal Instructor, University of Wisconsin - Madison, Fall 2022</p>
+  <p class="meta">Teaching Assistant, University of Wisconsin - Madison, Fall 2022</p>
   <p>
-    Instructor for economic decision analysis in the Department of Agricultural
+    Teaching assistant for economic decision analysis in the Department of Agricultural
     and Applied Economics.
   </p>
 </article>
